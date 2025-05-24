@@ -1,5 +1,4 @@
 
-![Logo](./logo.png)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sergifuster.github.io/) [![cv](https://img.shields.io/badge/download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sergifuster.github.io/assets/pdfs/europass-english.pdf)
 
@@ -42,4 +41,5 @@ Currently, I work at the tech company **[Cuatroochenta](https://cuatroochenta.co
 ⭐ **Thanks for stopping by! If you find something interesting in my repos, feel free to star it or reach out.**
 
 
+![Logo](./logo.png)
 
