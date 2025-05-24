@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Sergi Fuster
 
-🎯 **Backend Developer** | 🐍 **Python Specialist** | 🧠 **AI, LLMs & Agents**
+🎯 **Data Scientist** | 🐍 **Python Specialist** | 🧠 **AI, LLMs & Agents**
 
 I'm a backend developer focused on building robust, scalable systems powered by **Python** and **Artificial Intelligence**. I specialize in **Large Language Models (LLMs)** and **intelligent agent architectures**, working on the intersection of backend development and applied AI.
 
