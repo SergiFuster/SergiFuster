@@ -5,9 +5,9 @@
 
 # 👋 Hi, I'm Sergi Fuster
 
-🎯 **Data Scientist** | 🐍 **Python Specialist** | 🧠 **AI, LLMs & Agents**
+🎯 **AI Engineer** | 🐍 **Python Specialist** | 🧠 **AI, LLMs & Agents**
 
-I'm a backend developer focused on building robust, scalable systems powered by **Python** and **Artificial Intelligence**. I specialize in **Large Language Models (LLMs)** and **intelligent agent architectures**, working on the intersection of backend development and applied AI.
+I'm a AI Engineer focused on building robust, scalable systems powered by **Python** and **Artificial Intelligence**. I specialize in **Large Language Models (LLMs)** and **intelligent agent architectures**, working on the intersection of backend development and applied AI.
 
 Currently, I work at the tech company **[Cuatroochenta](https://cuatroochenta.com/)**, where we develop innovative digital solutions and AI-powered applications.
 
