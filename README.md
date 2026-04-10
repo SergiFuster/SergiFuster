@@ -33,7 +33,3 @@ Mi flujo de trabajo se fundamenta en la robustez y el diseño orientado a datos.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-fuster-dura-343999208/)
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergifusterdura@gmail.com)
-
----
-
-![Logo](./logo.png)
