@@ -5,7 +5,7 @@
 
 Ingeniero de IA enfocado en el desarrollo de sistemas robustos y arquitecturas de agentes escalables. Mi enfoque principal es la integración de Large Language Models (LLMs) mediante flujos de trabajo tipados y validados.
 
-Actualmente desarrollo soluciones de inteligencia aplicada en **[Cuatroochenta](https://cuatroochenta.com/)**.
+Actualmente desarrollo soluciones de inteligencia aplicada en **[S2 GRUPO](https://s2grupo.es/)**.
 
 ---
 
